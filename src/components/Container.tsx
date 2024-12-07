@@ -182,7 +182,7 @@ const HidayahAppWebsite: React.FC = () => {
         </p>
         <div className="mt-6 flex justify-center gap-4 max-sm:flex max-sm:flex-col max-sm:px-10">
           <a
-            href="https://expo.dev/artifacts/eas/g6HXQ5XXKwFYopYbjneG8B.apk"
+            href="https://expo.dev/artifacts/eas/uzdzeiTa91AUenK6He8Q2g.apk"
             className="bg-white flex items-center justify-center text-xl gap-2 text-slate-800 px-6 py-3 rounded-lg shadow-md font-semibold hover:bg-gray-200"
           >
             <img src={android} alt="" className="w-9" />

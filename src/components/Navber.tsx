@@ -102,7 +102,7 @@ const Navber: React.FC<NavberProps> = ({ darkMode, toggleTheme }) => {
         {/* Download App Button */}
         <div className="lg:hidden mt-4">
           <a
-            href="https://expo.dev/artifacts/eas/g6HXQ5XXKwFYopYbjneG8B.apk"
+            href="https://expo.dev/artifacts/eas/uzdzeiTa91AUenK6He8Q2g.apk"
             className={`bg-[#FDE7BB] text-[#1E2A47] px-6 py-2 rounded-full font-semibold text-lg hover:bg-[#F1D67D] transition duration-300`}
           >
             Download App
